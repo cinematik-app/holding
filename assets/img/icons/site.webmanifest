@@ -1,0 +1,14 @@
+{
+    "name": "Cinematik",
+    "short_name": "Cinematik",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#00b0f0",
+    "background_color": "#00b0f0",
+    "display": "standalone"
+}
