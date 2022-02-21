@@ -262,7 +262,7 @@ h1, h2, h3, h4 {
 }
 
 .icons-home a .icon {
-    fill: #fff;
+    fill: #7CAE72;
     width: 18px;
     height: 18px;
 }
@@ -279,7 +279,7 @@ h1, h2, h3, h4 {
 }
 
 .icons-home a:hover .icon {
-    fill: #0562dc
+    fill: #46803A
 }
 
 .down {
