@@ -667,7 +667,7 @@ html, body {
 }
 
 .header-site, .header-post {
-    background: #7CAE72;
+    background: #fff;
     height: 100%;
 }
 
@@ -684,7 +684,7 @@ html, body {
 }
 
 .header-site h1, .header-site h2 {
-    color: #fff;
+    color: #7CAE72;
     text-align: center
 }
 
